@@ -3,7 +3,7 @@
 This app is intended for use with a Nebri instance. Visit https://nebrios.com to sign up for free!
 
 <h2>Setup</h2>
-This app requires very little in terms of setup. Please ensure that all files are placed in the correct places over SFTP. `nebri_ssh.py` should be copied to /libraries.
+This app requires very little in terms of setup. Please ensure that all files are placed in the correct places over SFTP. `libraries/nebri_ssh.py` should be copied to /libraries.
 <strong>NOTE</strong>: A copy of the private ssh key that will be used to connect to any servers should also be uploaded to your instance. This file should be copied to /workspace.
 
 <h2>Requirements</h2>
